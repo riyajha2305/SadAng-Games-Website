@@ -49,6 +49,7 @@ alert("Signed Out");
         
         var email = user.email;
         alert("Active user " + email);
+        window.location.assign("welcome page.html");
     
         
         //is signed in
